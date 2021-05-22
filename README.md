@@ -1,13 +1,11 @@
 ### Hi there 👋🏼
-
+- 👩🏻‍💻 I’m currently working on [TradeMarian](https://github.com/jmthorn/TradeMarian)
+- 🌱 I’m currently learning Python and Flask
+- 📫 How to reach me: tranle97@gmail.com
 
 <!--
 **trnle/trnle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-##### Check out this Express team project I worked on recently!
-<a href="https://github.com/Hieu-Ma/ggplays/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hieu-Ma&theme=nord&repo=ggplays"/>
-</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
