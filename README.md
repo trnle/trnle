@@ -1,5 +1,6 @@
 ### Hi there 👋🏼
-- 👩🏻‍💻 I’m currently working on [TradeMarian](https://github.com/jmthorn/TradeMarian)
+- 👩🏻‍💻 I’m currently working on [Radiant](https://github.com/trnle/radiant) ✨
+- 👯 I recently collaborated on [TradeMarian](https://github.com/jmthorn/TradeMarian/)
 - 🌱 I’m currently learning Python and Flask
 - 📫 How to reach me: tranle97@gmail.com
 
