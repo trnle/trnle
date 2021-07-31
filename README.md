@@ -1,5 +1,5 @@
 ### Hi there 👋🏼
-- 🤔 I’m currently looking for a software engineer role. I'm interested in front end and full stack development, and I have an interest in building mobile applications!
+- 🔍 I’m currently looking for a software engineer role. I'm interested in front end and full stack development, and I have an interest in building mobile applications!
 - 👩🏻‍💻 I recently worked on [Radiant](https://github.com/trnle/radiant) ✨
 - 🌱 I’m currently learning Python and Flask
 - 📫 How to reach me: tranle97@gmail.com
