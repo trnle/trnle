@@ -1,7 +1,6 @@
 ### Hi there 👋🏼
-- 🔍 I'm interested in front end and full stack development, and I want to learn more about building mobile applications. Check out my [portfolio](https://tranle.dev)!
+- 🔍 I'm interested in front end and full stack development, UI/UX design, product management and I want to learn more about building mobile applications. Check out my [portfolio](https://tranle.dev)!
 - 👩🏻‍💻 I recently worked on [Radiant](https://github.com/trnle/radiant) ✨
-- 🌱 I’m currently learning Java
 - 📫 How to reach me: tranle97@gmail.com
 
 
