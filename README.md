@@ -1,7 +1,5 @@
 ### Hi there 👋🏼
-- 🔍 I'm interested in front end and full stack development, UI/UX design, product management and I want to learn more about building mobile applications. Check out my [portfolio](https://tranle.dev)!
-- 👩🏻‍💻 Currently working at Nordstrom as a Software Engineer 2
-- ✨ Check out my skincare project called [Radiant](https://github.com/trnle/radiant)
+- 🔍 I'm interested in front end and full stack development, UI/UX design, product management and I want to learn more about building mobile applications. Check out my latest [project](https://github.com/trnle/milestone-public)!
 - 📫 How to reach me: tranle97@gmail.com
 
 
