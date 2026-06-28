@@ -1,5 +1,5 @@
 ### Hi there 👋🏼
-- 🔍 I'm interested in front end and full stack development, UI/UX design, product management and I want to learn more about building mobile applications. Check out my latest [project](https://trnle.github.io/milestone-public/)!
+- 🔍 I'm interested in full stack development, UI/UX design, product management and I want to learn more about building mobile applications.
 - Portfolio: [tranle.dev](https://tranle.dev)
 - 📫 How to reach me: tranle97@gmail.com
 
